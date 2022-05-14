@@ -1,0 +1,14 @@
+{
+  "endpointBase": "https://tienelastic.ent.us-central1.gcp.cloud.es.io",
+  "engineName": "final-engine",
+  "hostIdentifier": "",
+  "searchKey": "search-ggptk535an6rd6fj7ejfd9fk",
+  "searchFields": ["url", "domain", "summary", "date"],
+  "resultFields": ["url", "domain", "summary", "date"],
+  "querySuggestFields": ["url", "domain", "summary", "date"],
+  "titleField": "url",
+  "urlField": "url",
+  "thumbnailField": "",
+  "sortFields": ["domain", "date"],
+  "facets": ["domain", "date"]
+}
